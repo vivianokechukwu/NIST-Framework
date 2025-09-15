@@ -30,6 +30,13 @@ Led a cybersecurity initiative for a large manufacturing organization to assess,
 - Designed a Supply Chain Cybersecurity Playbook.<br>
 - Required vendor participation in tabletop exercises and continuity planning.
 
+### Outcome & Strategic Value
+
+- Reduced third-party risk exposure by 40% within 6 months.<br>
+- Strengthened compliance with NIST 800-161 and CMMC requirements.<br>
+- Embedded cybersecurity as a core criterion for vendor selection and renewals.
+
+
 
 
 <!--
